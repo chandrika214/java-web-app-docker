@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>com.mt</groupId>
+	<groupId>nexus</groupId>
 	<artifactId>java-web-app</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
@@ -102,12 +102,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.8.113:8081/repository/flipkart-release/</url>
+	      <url>http://13.48.44.141:8081/repository/loreal-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.8.113:8081/repository/flipkart-snapshot/</url>
+	      <url>http://13.48.44.141:8081/repository/loreal-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> -->
 	
